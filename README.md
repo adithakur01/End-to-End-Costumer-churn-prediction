@@ -46,14 +46,14 @@ Customer churn is a critical issue for telecom companies. The goal is to **predi
 
 ## Project Structure
 
-📦End-to-End-Costumer-churn-prediction/
+End-to-End-Costumer-churn-prediction/
 ├── dataset/
 │   └── Telco\_customer\_churn.csv
-├── app.py                      # Streamlit frontend
-├── src.ipynb                  # Model training notebook
-├── xgb\_model\_top.pkl          # Trained model file
-├── requirements.txt           # Dependency list
-└── README.md                  # Project documentation
+├── app.py 
+├── src.ipynb
+├── xgb\_model\_top.pkl
+├── requirements.txt
+└── README.md
 
 # Streamlit App
 
