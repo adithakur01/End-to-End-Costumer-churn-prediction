@@ -44,19 +44,6 @@ Customer churn is a critical issue for telecom companies. The goal is to **predi
 | Streamlit      | Web Application Deployment       |
 | Git & GitHub   | Version Control and Hosting      |
 
-## Project Structure
-
-End-to-End-Costumer-churn-prediction/
-│ 
-├── dataset/
-│   └── Telco\_customer\_churn.csv
-│ 
-├── app.py 
-├── src.ipynb
-├── xgb\_model\_top.pkl
-├── requirements.txt
-└── README.md
-
 # Streamlit App
 
 The Streamlit web app allows users to:
