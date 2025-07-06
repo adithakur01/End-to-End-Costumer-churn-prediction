@@ -47,8 +47,10 @@ Customer churn is a critical issue for telecom companies. The goal is to **predi
 ## Project Structure
 
 End-to-End-Costumer-churn-prediction/
+│ 
 ├── dataset/
 │   └── Telco\_customer\_churn.csv
+│ 
 ├── app.py 
 ├── src.ipynb
 ├── xgb\_model\_top.pkl
